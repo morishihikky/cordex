@@ -1,0 +1,107 @@
+[
+  {
+    "key": "shinano",
+    "name": "しなの",
+    "gender": "女性",
+    "item_id": "6106863",
+    "title": "オリジナル3Dモデル「しなの」 - ポンデロニウム研究所 - BOOTH",
+    "source_page": "https://booth.pm/ja/items/6106863",
+    "image_url": "https://booth.pximg.net/c/620x620/ed52788c-0b3b-4e38-9ded-1e5797daf0ef/i/6106863/07bd77df-a8ee-4244-8c4e-16cf7cb584bb_base_resized.jpg",
+    "image_file": "assets/shinano.jpg",
+    "size": [
+      620,
+      620
+    ],
+    "checked_on": "2026-10-21"
+  },
+  {
+    "key": "manuka",
+    "name": "マヌカ",
+    "gender": "女性",
+    "item_id": "5058077",
+    "title": "オリジナル3Dモデル「マヌカ」ver1.02 - STUDIO JINGO - BOOTH",
+    "source_page": "https://booth.pm/ja/items/5058077",
+    "image_url": "https://booth.pximg.net/c/620x620/8a7426aa-ba62-4ef0-9e7d-2c8ea96e7c9b/i/5058077/a18424fe-a56e-411a-9c47-27c56909593c_base_resized.jpg",
+    "image_file": "assets/manuka.jpg",
+    "size": [
+      620,
+      620
+    ],
+    "checked_on": "2026-10-21"
+  },
+  {
+    "key": "moe",
+    "name": "萌",
+    "gender": "女性",
+    "item_id": "4667400",
+    "title": "オリジナル3Ｄモデル「萌」Ver.1.02.1 - キュビクローゼット - BOOTH",
+    "source_page": "https://booth.pm/ja/items/4667400",
+    "image_url": "https://booth.pximg.net/c/620x620/f420c992-4225-4ce0-b751-3a4acdceaab6/i/4667400/1641b18e-eb97-4cbe-85fd-0f04cd53b46a_base_resized.jpg",
+    "image_file": "assets/moe.jpg",
+    "size": [
+      620,
+      620
+    ],
+    "checked_on": "2026-10-21"
+  },
+  {
+    "key": "lime",
+    "name": "ライム",
+    "gender": "女性",
+    "item_id": "4876459",
+    "title": "ライム -Lime- / オリジナル3Dモデル - あまとうさぎ - BOOTH",
+    "source_page": "https://booth.pm/ja/items/4876459",
+    "image_url": "https://booth.pximg.net/c/620x620/61a3b2d7-b4b1-4f97-9e48-ffe959b26ae9/i/4876459/73a1c9e3-825d-4045-bf14-e07392ad7afa_base_resized.jpg",
+    "image_file": "assets/lime.jpg",
+    "size": [
+      620,
+      620
+    ],
+    "checked_on": "2026-10-21"
+  },
+  {
+    "key": "komano",
+    "name": "狛乃",
+    "gender": "男性",
+    "item_id": "5260363",
+    "title": "【オリジナル3Dモデル】狛乃-Komano- - ひゅうがなつみかん - BOOTH",
+    "source_page": "https://booth.pm/ja/items/5260363",
+    "image_url": "https://booth.pximg.net/c/620x620/a724e93d-5634-41cf-ac1f-8f8985536a5a/i/5260363/051a65d4-583a-439b-add8-5170e4fcd25f_base_resized.jpg",
+    "image_file": "assets/komano.jpg",
+    "size": [
+      620,
+      620
+    ],
+    "checked_on": "2026-10-21"
+  },
+  {
+    "key": "maki",
+    "name": "碼希",
+    "gender": "男性",
+    "item_id": "3162696",
+    "title": "【オリジナル3Dモデル】碼希-まき- - ひゅうがなつみかん - BOOTH",
+    "source_page": "https://booth.pm/ja/items/3162696",
+    "image_url": "https://booth.pximg.net/c/620x620/a724e93d-5634-41cf-ac1f-8f8985536a5a/i/3162696/100933a7-77d3-4209-b2d2-34f1f88fe0cd_base_resized.jpg",
+    "image_file": "assets/maki.jpg",
+    "size": [
+      620,
+      620
+    ],
+    "checked_on": "2026-10-21"
+  },
+  {
+    "key": "kuuta",
+    "name": "くうた",
+    "gender": "男性",
+    "item_id": "4897493",
+    "title": "【くうた-Kuuta-】オリジナル3Dモデル #Kuuta3D - ほとぎ屋 - BOOTH",
+    "source_page": "https://booth.pm/ja/items/4897493",
+    "image_url": "https://booth.pximg.net/c/620x620/b9f5a983-e991-4261-b325-fbeb9a9ee89e/i/4897493/9b0f6f1e-e318-4a01-adb7-c25d2a405da5_base_resized.jpg",
+    "image_file": "assets/kuuta.jpg",
+    "size": [
+      620,
+      620
+    ],
+    "checked_on": "2026-10-21"
+  }
+]
