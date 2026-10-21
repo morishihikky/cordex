@@ -1,6 +1,6 @@
 # 3Dお風呂セット 制作発注スライド
 
-バーチャルマーケット／アース製薬 企業ブース｜全8枚｜v0.5
+バーチャルマーケット／アース製薬 企業ブース｜全8枚｜v0.6
 
 - [編集用PowerPoint](bath-set-production-slides.pptx)
 - [閲覧用PDF](bath-set-production-slides.pdf)
@@ -47,11 +47,11 @@
 - [しなの](https://booth.pm/ja/items/6106863)
 - [マヌカ](https://booth.pm/ja/items/5058077)
 - [萌](https://booth.pm/ja/items/4667400)
-- [ライム](https://booth.pm/ja/items/4876459)
+- [桔梗](https://booth.pm/ja/items/3681787)
+- [ドラゴニュート・ヴラウ](https://booth.pm/ja/items/4169438)
+- [バメッサ](https://booth.pm/ja/items/5129599)
 - [狛乃](https://booth.pm/ja/items/5260363)
-- [碼希](https://booth.pm/ja/items/3162696)
-- [くうた](https://booth.pm/ja/items/4897493)
 
-確認日：2026年10月21日。販売数・利用率の上位順位を示すものではありません。
+確認日：2026年10月21日。対応アバターは発注者指定の7種です。
 
 </details>
